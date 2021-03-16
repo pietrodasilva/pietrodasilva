@@ -1,0 +1,5 @@
+- 👋 Hey, I’m @pietrodasilva
+- 👀 I’m interested in improving my Python and Java programming skills.
+- 🌱 I’m currently a final year student at the University of Essex
+- 💞️ I’m looking to collaborate on any project as I'm keen on learning new languages.
+- 📫 Reach me via pietro.ec.dasilva@gmail.com / https://www.linkedin.com/in/pietro-da-silva/
