@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @pietrodasilva
 - 👀 I’m interested in improving my Python and Java programming skills.
-- 🌱 I’m currently a final year student at the University of Essex
+- 🌱 I’ve graduated from the University of Essex with a BSc in Computer Science
 - 💞️ I’m looking to collaborate on any project as I'm keen on learning new languages.
-- 📫 Reach me via pietro.ec.dasilva@gmail.com / https://www.linkedin.com/in/pietro-da-silva/
+- 📫 Reach me via pietro.ec.dasilva@gmail.com or https://www.linkedin.com/in/pietro-da-silva/
