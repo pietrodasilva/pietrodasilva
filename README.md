@@ -1,5 +1,5 @@
-- 👋 Hey, I’m @pietrodasilva
+- 👋 Hey, I’m @pietrodasilva, Solutions Consultant @ Chattermill with over 3 years of experience.
 - 👀 I’m interested in improving my Python and Java programming skills.
-- 🌱 I’ve graduated from the University of Essex with a BSc in Computer Science
+- 🌱 I hold a Firt Class Honours BSc Computer Science from the University of Essex.
 - 💞️ I’m looking to collaborate on any project as I'm keen on learning new languages.
 - 📫 Reach me via pietro.ec.dasilva@gmail.com or https://www.linkedin.com/in/pietro-da-silva/
